@@ -9,4 +9,4 @@
 - Not dependency managed.
 - Not tested in a web server, runs locally fine.
 - Not fully cross browser checked, I used the latest version Chrome and Firefox on Ubuntu 14.01
-- Tested on mobile. It probably doesn't work, but could pretty easily be expanded for touch devices.
+- Not tested on mobile. It probably doesn't work, but could pretty easily be expanded for touch devices.
