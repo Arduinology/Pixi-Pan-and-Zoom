@@ -8,4 +8,4 @@
 ## What this is not:
 - Not dependency managed.
 - Not tested in a web server, runs locally fine.
-- Fully cross browser checked, I used the latest version Chrome and Firefox on Ubuntu 14.01
+- Not fully cross browser checked, I used the latest version Chrome and Firefox on Ubuntu 14.01
